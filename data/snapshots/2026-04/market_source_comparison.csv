@@ -1,0 +1,3 @@
+Source,Accessed,Scope,EUR stablecoin market cap USD millions,Global stablecoin market cap USD millions,Implied EUR share,Notes
+CoinMarketCap,2026-04-29,CMC EUR stablecoin category and all-stablecoin category,675.53,321222.79,0.210%,Continuity source for existing manuscript figures; category composition excludes or underweights some euro tokens visible in CoinGecko
+CoinGecko,2026-04-29,CoinGecko EUR stablecoin and stablecoin categories,880.00,316020.70,0.278%,Sensitivity check; includes STASIS EURO and Monerium rows that materially raise EUR category total
